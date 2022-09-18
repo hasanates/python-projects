@@ -1,1 +1,1 @@
-#Here you will find some handson project that I have alreay solved while learning how to code on Python. I hope it can help you as well. There can be some mistakes please do not hesitate to enligthen me.
+# Here you will find some handson project that I have alreay solved while learning how to code on Python. I hope it can help you as well. There can be some mistakes please do not hesitate to enligthen me.
